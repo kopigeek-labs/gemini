@@ -1,1 +1,5 @@
+python-dotenv
+ipywidgets
 google-cloud-aiplatform
+google-generativeai
+# openai
